@@ -75,7 +75,7 @@ ruff check .
 2. Run the analyzer:
 
     ```bash
-    python main.py
+    uv run src/prompt_analyzer/main.py
     ```
 
 3. On first run:
